@@ -1799,8 +1799,31 @@ textarea.w-select {
   background-image: url("../images/kalki.jpeg") !important;
 }
 .f8p{
-  background-image: url("../images/OMA.jpeg") !important;
+  background-image: url("../images/guppy.jpg") !important;
 }
 .f9p{
-  background-image: url("../images/guppy.jpg") !important;
+  background-image: url("../images/24032.jpg") !important;
+}
+.f10p{
+  background-image: url("../images/ARM.jpg") !important;
+}
+.f11p{
+  background-image: url("../images/2403.jpg") !important;
+}
+.f12p{
+  background-image: url("../images/minnal.jpg") !important;
+}
+.f13p{
+  background-image: url("../images/thallumala.jpg") !important;
+}
+.f14p{
+  background-image: url("../images/aravam.jpg") !important;
+}
+
+.brand{
+  font-size: 50px;
+  font-weight: 500;
+}
+.fname{
+  font-weight: 900;
 }
