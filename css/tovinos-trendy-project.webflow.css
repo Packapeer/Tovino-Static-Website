@@ -792,7 +792,7 @@ figcaption {
   align-items: center;
   background-color: rgba(0, 0, 0, 0.1);
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(64%, rgba(18, 26, 32, 0)), to(#081b27));
-  background-image: linear-gradient(180deg, rgba(18, 26, 32, 0) 64%, #081b27);
+  background-image: linear-gradient(180deg, rgba(18, 26, 32, 0) 0%, #081b27);
   color: #fff;
 }
 
