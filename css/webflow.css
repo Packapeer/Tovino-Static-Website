@@ -1859,16 +1859,17 @@ textarea.w-select {
   position: absolute;
   color: #fff;
 }
-.socail-media{
+.social-media{
   display: flex;
   text-align: center;
-  width: 110px;
+  width: 160px;
 
   text-align: center;
 
   margin: auto;
   font-size: 20px;
+  margin-bottom: 20px;
 }
-.socail-media a{
-  padding-left: 10px;
+.social-media a{
+  padding-left: 20px !important;
 }
