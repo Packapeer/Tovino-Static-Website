@@ -256,7 +256,8 @@ figcaption {
 }
 
 .section.footer {
-  padding-top: 140px;
+ /* padding-top: 140px;*/
+  padding-top: 1px;
   padding-bottom: 0px;
   background-color: #070c0f;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#081b27), to(rgba(8, 27, 39, 0.8))), url('../images/Photo-8.jpg');
@@ -2561,7 +2562,8 @@ figcaption {
   }
   .item-image-block {
     display: block;
-    width: 230px;
+   /* width: 230px;*/
+    width: 100%;
     margin-right: auto;
     margin-bottom: 30px;
     margin-left: auto;
@@ -2922,7 +2924,7 @@ figcaption {
     height: 170px;
   }
   .item-image-block.poster-format {
-    width: 200px;
+    width: 225px;
     height: 280px;
     margin-bottom: 20px;
   }

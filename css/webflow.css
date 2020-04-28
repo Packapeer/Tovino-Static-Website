@@ -1827,3 +1827,24 @@ textarea.w-select {
 .fname{
   font-weight: 900;
 }
+.about-pic-1{
+  background-image: url("../images/tovino-pic.jpg") !important;
+}
+.about-wall{
+  background-image: url("../images/tovino-wall.jpg") !important;
+}
+.about-pic2{
+  background-image: url("../images/tovino-poster.jpg") !important;
+}
+.about-pic3{
+  background-image: url("../images/tovino-poster2.jpg") !important;
+}
+.about-pic4{
+  background-image: url("../images/tovino-poster3.jpg") !important;
+}
+.about-pic5{
+  background-image: url("../images/tovino-poster4.jpg") !important;
+}
+.family{
+  background-image: url("../images/family.jpg") !important;
+}
