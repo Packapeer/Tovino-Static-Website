@@ -1823,10 +1823,10 @@ textarea.w-select {
   background-image: url("../images/pallichattambi.jpg") !important;
 }
 .u4p{
-  background-image: url("../images/minnal.jpg") !important;
+  background-image: url("../images/thallumala.jpg") !important;
 }
 .u5p{
-  background-image: url("../images/thallumala.jpg") !important;
+  background-image: url("../images/aravam.jpg") !important;
 }
 .u6p{
   background-image: url("../images/aravam.jpg") !important;
@@ -1858,7 +1858,13 @@ textarea.w-select {
   background-image: url("../images/tovino-poster4.jpg") !important;
 }
 .family{
-  background-image: url("../images/family.jpg") !important;
+  background-image: url("../images/family2.jpg") !important;
+}
+.family2{
+  background-image: url("../images/family3.jpg") !important;
+}
+.family3{
+  background-image: url("../images/family4.jpg") !important;
 }
 .film-description{
   width: 100%;
