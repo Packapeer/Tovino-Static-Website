@@ -1885,3 +1885,23 @@ textarea.w-select {
 .social-media a{
   padding-left: 20px !important;
 }
+
+.awards-header{
+  background: #000 !important;
+}
+.short-bio-wrapper p{
+  color: #fff !important;
+}
+.award1{
+  background-image: url("../images/award1.jpeg") !important;
+}
+.award2{
+  background-image: url("../images/award2.jpg") !important;
+}
+.award3{
+  background-image: url("../images/award3.jpg") !important;
+}
+.info-block-icon.small.shield{
+  height: 60px;
+  float: left;
+}
