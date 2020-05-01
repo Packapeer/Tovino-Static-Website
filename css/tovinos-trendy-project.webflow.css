@@ -2605,7 +2605,7 @@ figcaption {
     font-size: 19px;
   }
   .header-list-wrapper.second-half {
-    display: none;
+    /*display: none;*/
   }
   .header-item-overlay {
     background-color: rgba(0, 0, 0, 0.1);
